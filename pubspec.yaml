@@ -1,0 +1,15 @@
+name: flexi_platform_flutter
+description: Low level platform library for Flexi framework. Not meant to be used directly.
+version: 0.0.1
+homepage: https://github.com/kinggoesgaming/flexi_platform_flutter
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
